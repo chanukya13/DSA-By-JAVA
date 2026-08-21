@@ -1,8 +1,7 @@
 Problem: Median of Two Sorted Arrays LeetCode:https://leetcode.com/problems/median-of-two-sorted-arrays/
 Difficulty: Hard
 Topics: Array, Binary Search, Divide and Conquer
-Time Complexity: O(n + m)
-Space Complexity: O(n + m)
+
 
 Code:-
 
